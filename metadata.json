@@ -1,0 +1,5 @@
+{
+  "name": "RFL Vehicle Load/Unload Report",
+  "description": "A mobile-friendly web application for logging vehicle load and unload reports for RFL Distribution's Khulna Depot. Users can manage vehicle lists and staff information.",
+  "requestFramePermissions": []
+}
